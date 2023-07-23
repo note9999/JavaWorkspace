@@ -1,5 +1,7 @@
 package chap_01;
 
+import java.sql.SQLOutput;
+
 public class _03_Variables {
     public static void main(String[] args) {
         String name = "note9999";
@@ -21,6 +23,7 @@ public class _03_Variables {
         float f = 3.14123456789F; // 3.14 넣기위해 f,F 넣어줘야함
         System.out.println(d);
         System.out.println(f);
+        System.out.println(f);;
 
         // int = 100000000000000000000000000;  값이 21억보다 커서 안됨
         long l = 1000000000L;
