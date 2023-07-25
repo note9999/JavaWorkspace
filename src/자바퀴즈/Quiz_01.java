@@ -5,8 +5,19 @@ package 자바퀴즈;
 //남은 거리 1.2km
 
 public class Quiz_01 {
-// 깃 잔디오류
- String 버스번호 = "상암08";
- 
+    public static void main(String[] args) {
+        // 깃 잔디오류 해결-> 이메일 문제여서 수정함
+
+        String busNo = "상암08";
+        int min = 3;
+        double distance = 1.2;
+
+        // 결과 출력
+        System.out.println(busNo+"번 버스");
+        System.out.println("약 "+min+"분 후 도착");
+        System.out.println("남은 거리 "+ distance + "km");
+
+    }
+
 
 }
