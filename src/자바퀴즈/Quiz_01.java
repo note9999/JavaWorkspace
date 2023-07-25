@@ -9,5 +9,4 @@ public class Quiz_01 {
  String 버스번호 = "상암08";
 
 
-
 }
