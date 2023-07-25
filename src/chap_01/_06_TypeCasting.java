@@ -30,6 +30,7 @@ public class _06_TypeCasting {
         // double -> float -> long -> int (수동 형변환)
 
 
+
     }
 
 }
